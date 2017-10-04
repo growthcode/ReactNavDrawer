@@ -1,5 +1,7 @@
 # ReactNavDrawer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kyaroru/ReactNavDrawer.svg)](https://greenkeeper.io/)
+
 A simple example of using DrawerNavigator in React Navigation
 
 It consists of a fake login page (without drawer) and also other pages that can be seen only after login (with drawer)
